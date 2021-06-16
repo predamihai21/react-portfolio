@@ -80,7 +80,7 @@ export default function AboutSection() {
             heading="About me"
           />
           <PText>
-            I am a freeelance website designer and developer from Cluj Napoca. I
+            I am a junior website designer and developer from Cluj Napoca. I
             create professional website. I love skiing and always try to show
             unique views to the audience through my design.
           </PText>
